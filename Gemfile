@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#REST TEST NTC WHY WHY WHY
+#THIS IS RUBY VERSION
 ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
